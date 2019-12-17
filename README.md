@@ -3,7 +3,7 @@
 
 練習內容如下：
 ------
-1. 以 ContosoUniversity 資料庫為主要資料來源 (ContosoUniversity.sql)
+1. 以 [ContosoUniversity](https://github.com/Asbolus/DotNetCoreWebApi/blob/master/ContosoUniversity.sql) 資料庫為主要資料來源 (ContosoUniversity.sql)
 2. 透過 DB First 流程建立 EF Core 實體資料模型
 3. 對資料庫進行版控 (使用資料庫移轉方式)
 4. 對每一個表格設計出完整的 CRUD 操作 APIs
